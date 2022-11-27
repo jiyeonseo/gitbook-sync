@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Blockchain](README.md)
+* [Hi world](README.md)
+* [Hi there](hi-there.md)
